@@ -17,8 +17,6 @@
   <br/>
   <br/>
 
-   <br/>
-   info
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
