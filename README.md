@@ -16,7 +16,9 @@
   #### :mortar_board: 한성대학교 컴퓨터공학과 모바일소프트웨어트랙 졸업생
   <br/>
   <br/>
-  
+
+   <br/>
+   info
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
