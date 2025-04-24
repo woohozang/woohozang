@@ -1,4 +1,4 @@
-## Profile 👋
+## Shim Wooho 👋
 
 <div>
   
@@ -11,19 +11,33 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: Now : 취업준비생<br/>
+  #### :raising_hand: Now : 대한민국 육군 중위(~25.06.30)<br/>
   #### :fire: Aim : 게임 프로그래머<br/>
   #### :mortar_board: Education : 한성대학교 컴퓨터공학과 모바일소프트웨어트랙 졸업생
-  ### : University
+  ### 🏫 :University
 
   | 경력                                          | 기간            |
   | --------------------------------------------- | --------------- |
   | 한성대학교 컴퓨터공학부 19학번                | 2019.03~2023.02 |
   | 2021학년도 한성대학교 컴퓨터공학부 부학생회장 | 2021.03~2022.02 |
-  | 한성대학교 메타버스(HSU_On)코딩하는 쿼카 콘텐츠 개발자 | 2021.05~ing     |
+  | 한성대학교 메타버스(HSU_On) 콘텐츠 개발자 (Team.코딩하는 쿼카) | 2021.05~ing     |
   | 한성대학교 ROTC 61th                       | 2020.02~2023.03     |
   <br/>
+  
+  ## 💻 :Project
+  |          프로젝트명                 | 기간            | 분야             |
+  | --------------------------------------------- | --------------- | -------      |
+  | 한성대학교 메타버스(HSU_On)                | 2021.05~ing | 콘텐츠 도출, HCI(Human Computer Interaction) 개발자               |
+  | cardboard를 이용한 VR 미술관 | 2022.09~2022.10 | 1인개발                          |
   <br/>
+
+  ## 🥇 :Award
+  | 상훈명                       | 수상내역               | 주최                      |
+| ---------------------------- | ---------------------- | ------------------------- |
+| 2021 한성공학경진대회        | 금상                   | 한성대학교                |
+| 2021 C&C창의융합경진대회     | 대상                   | 한성대학교                |
+| 2022 한성대학교 캡스톤디자인 | 우수상                 | 한성대학교                |
+| 2023 한성인재인증            | 상장 | 한성대학교                |
 
   ## 🧱 Tech Stack
   ### Language
@@ -45,11 +59,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
+
+  ## 📔 :qualifications
+  |          자격증                 | 취득일자            | 제공기관             |
+  | --------------------------------------------- | --------------- | -------      |
+  | OA마스터  |2017 | 한국생산성본부|
+  | 정보처리기사                | 2024.06.18 | 한국산업인력공단               |
+  | SQL 개발자(SQLD) | 2024.09.20 | 한국데이터산업진흥원       |
+  <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohozang)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohozang)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
