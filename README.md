@@ -69,9 +69,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohozang)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohozang&show_icons=true&theme=dracula)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohozang)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohozang&layout=compact&theme=dracula)
   
 </div>
 
