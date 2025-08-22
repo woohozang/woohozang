@@ -13,7 +13,7 @@
   ## 👀 About Me
   #### :raising_hand: Now : 건국대학교 메타버스융합학과 재학중<br/>
   #### :fire: Aim : 게임 프로그래머<br/>
-  #### :mortar_board: Education : 한성대학교 컴퓨터공학과 모바일소프트웨어트랙 졸업생
+  #### :mortar_board: Education : 건국대학교 메타버스융합학과 공학 전공
   ### 🏫 :University
 
   | 경력                                          | 기간            |
